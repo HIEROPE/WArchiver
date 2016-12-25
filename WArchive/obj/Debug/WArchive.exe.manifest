@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WArchive.exe" size="8664">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WArchive.exe" size="9176">
       <assemblyIdentity name="WArchive" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>z08XljweWYsP4ubBokB941eivfC9YFjoHK8m3optkK4=</dsig:DigestValue>
+        <dsig:DigestValue>gsF7X2O0vIZbCwyk9NDlGEigK7HBPbv6jaJcvRiacLM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

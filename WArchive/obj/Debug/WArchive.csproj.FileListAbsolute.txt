@@ -1,0 +1,10 @@
+C:\Users\Iran\Documents\git\WArchive\WArchive\bin\Debug\WArchive.exe.config
+C:\Users\Iran\Documents\git\WArchive\WArchive\bin\Debug\WArchive.exe.manifest
+C:\Users\Iran\Documents\git\WArchive\WArchive\bin\Debug\WArchive.application
+C:\Users\Iran\Documents\git\WArchive\WArchive\bin\Debug\WArchive.exe
+C:\Users\Iran\Documents\git\WArchive\WArchive\bin\Debug\WArchive.pdb
+C:\Users\Iran\Documents\git\WArchive\WArchive\obj\Debug\WArchive.csprojResolveAssemblyReference.cache
+C:\Users\Iran\Documents\git\WArchive\WArchive\obj\Debug\WArchive.exe.manifest
+C:\Users\Iran\Documents\git\WArchive\WArchive\obj\Debug\WArchive.application
+C:\Users\Iran\Documents\git\WArchive\WArchive\obj\Debug\WArchive.exe
+C:\Users\Iran\Documents\git\WArchive\WArchive\obj\Debug\WArchive.pdb
