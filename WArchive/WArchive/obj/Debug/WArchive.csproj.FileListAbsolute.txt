@@ -1,0 +1,16 @@
+c:\users\iran\documents\visual studio 2012\Projects\WArchive\WArchive\bin\Debug\WArchive.exe.config
+c:\users\iran\documents\visual studio 2012\Projects\WArchive\WArchive\obj\Debug\WArchive.csprojResolveAssemblyReference.cache
+c:\users\iran\documents\visual studio 2012\Projects\WArchive\WArchive\bin\Debug\WArchive.exe
+c:\users\iran\documents\visual studio 2012\Projects\WArchive\WArchive\bin\Debug\WArchive.pdb
+c:\users\iran\documents\visual studio 2012\Projects\WArchive\WArchive\obj\Debug\WArchive.exe
+c:\users\iran\documents\visual studio 2012\Projects\WArchive\WArchive\obj\Debug\WArchive.pdb
+G:\WArchive\WArchive\obj\Debug\WArchive.exe
+G:\WArchive\WArchive\obj\Debug\WArchive.pdb
+G:\WArchive\WArchive\bin\Debug\WArchive.exe.config
+G:\WArchive\WArchive\bin\Debug\WArchive.exe.manifest
+G:\WArchive\WArchive\bin\Debug\WArchive.application
+G:\WArchive\WArchive\bin\Debug\WArchive.exe
+G:\WArchive\WArchive\bin\Debug\WArchive.pdb
+G:\WArchive\WArchive\obj\Debug\WArchive.csprojResolveAssemblyReference.cache
+G:\WArchive\WArchive\obj\Debug\WArchive.exe.manifest
+G:\WArchive\WArchive\obj\Debug\WArchive.application
